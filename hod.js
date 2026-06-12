@@ -43,3 +43,10 @@ console.log(eearr)
 //reduce
 let sum=arr.reduce((a,b)=>a+b)
 console.log(sum)
+
+//filter-map-reduce
+let mixed=arr.filter(e=>e%2).map(e=>e*e).reduce((a,b)=>a+b)
+console.log(mixed)
+//sort-map
+let darray=arr.sort((a,b)=>b-a).map(e=>e+5)
+console.log(darray)
