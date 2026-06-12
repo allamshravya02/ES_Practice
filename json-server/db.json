@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "cvr",
+      "place": "Ibrahimpatnam",
+      "id": "alJ6ROLnl-8"
+    },
+    {
+      "name": "kmc",
+      "place": "warangal",
+      "id": "yi4OC-Cgd7U"
+    }
+  ],
+  "students": [
+    {
+      "id": "10",
+      "name": "shravya",
+      "branch": "cse"
+    },
+    {
+      "id": "20",
+      "name": "kavya",
+      "branch": "csd"
+    },
+    {
+      "id": "J1iPWE5mA6I",
+      "name": "Navya",
+      "branch": "csm"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
