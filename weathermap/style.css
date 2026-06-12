@@ -1,0 +1,19 @@
+.card{
+        display:flex;
+        flex-direction: column;
+        width:200px;
+        height:200px;
+        -ms-flex-align: center;
+        align-items:center;
+        background-color: beige;
+        word-spacing: normal;
+}
+    body{
+        margin:0%;
+        border:0cap;
+    }
+    h1{
+        font-family:'Times New Roman', Times, serif;
+        text-align: left;
+        text-decoration: underline;
+    }
